@@ -1,19 +1,20 @@
 
 <p align="center">
   <img src="https://drive.google.com/file/d/1R7-HwBPfOe07F6bkWdUa-oKAi7EaykMP/view?usp=drive_link" alt="Ashok Lamsal Banner" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ashok053&label=Profile%20views&color=0e75b6&style=flat" alt="Ashok053" />
+</p>
 </p>
 
 <h1 align="center">Hello World, I'm Ashok Lamsal 🌍</h1>
 <h3 align="center">Making machines learn, one project at a time.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashok053&label=Profile%20views&color=0e75b6&style=flat" alt="Ashok053" />
-</p>
+
 
 ---
 
 - 🔭 I’m currently working on AI/ML projects and leading tech initiatives.
-- 🌱 Currently learning: **Deep Learning**, **Language models **, and **machine learning**.
+- 🌱 Currently learning: **Deep Learning**, **Language models**, and **machine learning**.
 - 💼 All my projects are available at: [ashok053.github.io](https://ashok053.github.io)
 - 📫 Reach me at: **ashoklamsal007@gmail.com**
 
