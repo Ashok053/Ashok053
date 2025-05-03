@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/fpJxRZH.png" alt="Ashok Lamsal Banner" />
+  <img src="https://drive.google.com/file/d/1R7-HwBPfOe07F6bkWdUa-oKAi7EaykMP/view?usp=drive_link" alt="Ashok Lamsal Banner" />
 </p>
 
 <h1 align="center">Hello World, I'm Ashok Lamsal 🌍</h1>
@@ -22,13 +22,13 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ashok053" target="_blank">
+  <a href="https://www.linkedin.com/in/ashoklamsal/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/ashok_lamsal_07/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:ashoklamsalofficial@gmail.com">
+  <a href="mailto:ashoklamsal007@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
