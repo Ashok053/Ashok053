@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hello World, I'm Ashok Lamsal 🌍</h1>
-<h3 align="center">Making machines learn, one project at a time.</h3>
+<h3 align="center">Making machines learn, one project at a time in infinite loop.</h3>
 
 
 
