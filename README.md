@@ -16,7 +16,7 @@
 ---
 
 - 🔭 I’m currently working on AI/ML projects and leading tech initiatives.
-- 🌱 Currently learning: **Deep Learning**, **Language models**, and **machine learning**.
+- 🌱 Currently learning: **Deep Learning**, **LLMs**, and **machine learning**.
 - 💼 All my projects are available at: [ashok053.github.io](https://ashok053.github.io)
 - 📫 Reach me at: **ashoklamsal007@gmail.com**
 
@@ -45,9 +45,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  
 
 </p>
 
