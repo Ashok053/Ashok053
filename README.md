@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on AI/ML projects and leading tech initiatives.
 - 🌱 Currently learning: **Deep Learning**, **LLMs**, and **machine learning**.
-- 💼 All my projects are available at: [ashok053.github.io](https://ashok053.github.io)
+- 💼 All my projects are available at: ashok-lamsal.com.np
 - 📫 Reach me at: **ashoklamsal007@gmail.com**
 
 ---
